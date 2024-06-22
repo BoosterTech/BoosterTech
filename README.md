@@ -1,5 +1,5 @@
 # Hello, name is Dariusz Podczasik! 👋
-I'm a passionate **Front-End Developer** and **Embedded Systems Enthusiast** based in Ireland. I enjoy creating dynamic and responsive web application.
+I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creating dynamic and responsive web application.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my React skills and learning TypeScript.
@@ -12,8 +12,8 @@ I'm a passionate **Front-End Developer** and **Embedded Systems Enthusiast** bas
 - **Tools:** Git, GitHub, Redux-Toolkit, Redux-Saga, npm, Styled-Components, Trello, Figma
 
 ## 🏆 Achievements & Certifications
-- 🥇 **C++ Programmer Certification** - C++ Institute (Score: 83%)
 - 🎓 **Front-End Development** - YouCode (2023-2024)
+- 🥇 **C++ Programmer Certification** - C++ Institute (Score: 83%)
 - 🌟 **Computer Science** - Fitzwilliam Institute, Dublin (Score: 95%)
 
 
