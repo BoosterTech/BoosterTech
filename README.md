@@ -4,7 +4,7 @@ I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creat
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my React skills and learning TypeScript.
 - 🌱 I’m currently learning more about advanced React patterns.
-- 📫 How to reach me: boostertech@mail.com
+- 📫 See my growing portflio:
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
@@ -15,7 +15,6 @@ I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creat
 - 🎓 **Front-End Development** - YouCode (2023-2024)
 - 🥇 **C++ Programmer Certification** - C++ Institute (Score: 83%)
 - 🌟 **Computer Science** - Fitzwilliam Institute, Dublin (Score: 95%)
-
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoosterTech&show_icons=true&theme=radical)
@@ -30,5 +29,11 @@ I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creat
 - ✈️ I'm a licensed private pilot.
 - 🚀 I also enjoy experimenting with embedded systems and MCU programming.
 - 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
+
+## 📫 How to reach me
+- **Email:** boostertech@mail.com
+- **LinkedIn:** [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
+## 🌐 Website
+Check out my [portfolio website](https://Front-End-Developer-Portfolio) to see my projects and learn more about my work.
 
 
