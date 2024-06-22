@@ -1,15 +1,15 @@
 # Hello, name is Dariusz Podczasik! 👋
-I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creating dynamic and responsive web application.
+I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dynamic and responsive web application.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on improving my React skills and learning TypeScript.
-- 🌱 I’m currently learning more about advanced React patterns.
-- 📫 See my growing portflio:
+- 🌱 I am also learning more about advanced React patterns.
+- 📫 
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks:** React
-- **Tools:** Git, GitHub, Redux-Toolkit, Redux-Saga, npm, Styled-Components, Trello, Figma
+- **Tools:** Git, GitHub, npm,Redux-Toolkit, Redux-Saga, React-Router, Styled-Components, Trello, Figma
 
 ## 🏆 Achievements & Certifications
 - 🎓 **Front-End Development** - YouCode (2023-2024)
@@ -33,6 +33,7 @@ I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creat
 ## 📫 How to reach me
 - **Email:** boostertech@mail.com
 - **LinkedIn:** [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
+- 
 ## 🌐 Website
 Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) to see my projects and learn more about my work.
 
