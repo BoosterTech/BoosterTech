@@ -29,15 +29,17 @@ I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dyna
 ## 🎉 Fun Facts
 - ✈️ I'm a licensed private pilot.
 - 🚛 I am also licensed truck driver😉 
-- 🚀 I also enjoy experimenting with embedded systems and MCU programming.
+- 🚀 I enjoy experimenting with embedded systems and MCU programming.
 - 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
 - ⚛️ I love science of Plasma🙂
+
+## 🌐 Website
+Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) to see my projects and learn more about my work.
 
 ## 📫 How to reach me
 - **Email:** boostertech@mail.com
 - **LinkedIn:** [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
-- 
-## 🌐 Website
-Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) to see my projects and learn more about my work.
+  
+
 
 
