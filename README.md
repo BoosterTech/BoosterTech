@@ -28,9 +28,10 @@ I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dyna
 
 ## 🎉 Fun Facts
 - ✈️ I'm a licensed private pilot.
+- 🚛 I am also licensed truck driver😉 
 - 🚀 I also enjoy experimenting with embedded systems and MCU programming.
 - 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
-- ⚛️ I love science of Plasma 🙂
+- ⚛️ I love science of Plasma🙂
 
 ## 📫 How to reach me
 - **Email:** boostertech@mail.com
