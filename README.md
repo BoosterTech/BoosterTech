@@ -34,6 +34,6 @@ I'm a passionate **Front-End Developer<React/>** based in Ireland. I enjoy creat
 - **Email:** boostertech@mail.com
 - **LinkedIn:** [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
 ## 🌐 Website
-Check out my [portfolio website](https://Front-End-Developer-Portfolio) to see my projects and learn more about my work.
+Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) to see my projects and learn more about my work.
 
 
