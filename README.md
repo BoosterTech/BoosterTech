@@ -2,7 +2,7 @@
 I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dynamic and responsive web application.
 
 ## 🚀 About Me
-- 💻 Technology is my pasion.
+- 💻 Technology is my passion.
 - 🔭 I’m currently working on improving my React skills and learning TypeScript.
 - 🌱 I am also learning more about advanced React patterns.
 
