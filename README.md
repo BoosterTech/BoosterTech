@@ -21,14 +21,14 @@ I'm a passionate **Front-End Developer** and **Embedded Systems Enthusiast** bas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoosterTech&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoosterTech&layout=compact&theme=radical)
 
-## 📝 Recent Blog Posts
+<!--## 📝 Recent Blog Posts
 - [Understanding Flexbox: A Guide for Beginners](https://yourblog.com/understanding-flexbox)
 - [Introduction to React Hooks](https://yourblog.com/introduction-to-react-hooks)
-- [Getting Started with STM32 Nucleo-64](https://yourblog.com/stm32-nucleo-64)
+- [Getting Started with STM32 Nucleo-64](https://yourblog.com/stm32-nucleo-64)-->
 
 ## 🎉 Fun Facts
 - ✈️ I'm a licensed private pilot.
-- 🚀 I love experimenting with embedded systems and MCU programming.
+- 🚀 I also enjoy experimenting with embedded systems and MCU programming.
 - 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
 
 
