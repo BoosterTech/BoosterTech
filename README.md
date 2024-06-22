@@ -2,14 +2,15 @@
 I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dynamic and responsive web application.
 
 ## 🚀 About Me
+- 💻 Technology is my pasion.
 - 🔭 I’m currently working on improving my React skills and learning TypeScript.
 - 🌱 I am also learning more about advanced React patterns.
-- 📫 
+
 
 ## 🔧 Technologies & Tools
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript ES6+, HTML, CSS
 - **Frameworks:** React
-- **Tools:** Git, GitHub, npm,Redux-Toolkit, Redux-Saga, React-Router, Styled-Components, Trello, Figma
+- **Tools:** Git, GitHub, NPM, Redux-Toolkit, Redux-Saga, React-Router, Styled-Components, Async-Await, Axios, Trello, Figma, Scrum
 
 ## 🏆 Achievements & Certifications
 - 🎓 **Front-End Development** - YouCode (2023-2024)
@@ -29,6 +30,7 @@ I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dyna
 - ✈️ I'm a licensed private pilot.
 - 🚀 I also enjoy experimenting with embedded systems and MCU programming.
 - 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
+- ⚛️ I love science of Plasma 🙂
 
 ## 📫 How to reach me
 - **Email:** boostertech@mail.com
