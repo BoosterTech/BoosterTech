@@ -39,6 +39,7 @@ Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Por
 ## 📫 How to reach me
 - **Email:** boostertech@mail.com
 - **LinkedIn:** [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
+- 📱 Contact me on [WhatsApp](https://wa.me/353862013944)
   
 
 
