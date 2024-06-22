@@ -5,7 +5,7 @@ I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dyna
 - 💻 Technology is my passion.
 - 🔭 I’m currently working on improving my React skills and learning TypeScript.
 - 🌱 I am also learning more about advanced React patterns.
-
+- ‍💼 I enjoy environments where I can be part of interesting projects, share & expand my knowledge.
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript ES6+, HTML, CSS
