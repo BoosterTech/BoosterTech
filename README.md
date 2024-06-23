@@ -34,7 +34,7 @@ I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dyna
 - ⚛️ I love science of Plasma🙂
 
 ## 🌐 Website
-Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) to see my projects and learn more about my work.
+Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) (available in English, Polish & Spanish) to see my projects and learn more about my work.
 
 ## 📫 How to reach me
 - **Email:** boostertech@mail.com
