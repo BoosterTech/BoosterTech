@@ -1,4 +1,4 @@
-# Hello, name is Dariusz Podczasik! 👋
+# Hello, my name is Dariusz Podczasik! 👋
 I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dynamic and responsive web application.
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@ I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dyna
 - 🌟 **Computer Science** - Fitzwilliam Institute, Dublin (Score: 95%)
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoosterTech&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoosterTech&show_icons=true&theme=radical)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoosterTech&layout=compact&theme=radical)
 
 <!--## 📝 Recent Blog Posts
