@@ -28,7 +28,7 @@ I am a passionate **Front-End Developer**. I enjoy creating dynamic and responsi
 
 ## 🎉 Fun Facts
 - ✈️ I'm a licensed private pilot.
-- 🚛 I am also licensed truck driver😉 
+- 🚛 I am also licensed professional truck driver😉 
 - 🚀 I enjoy experimenting with embedded systems and MCU programming.
 - 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
 - ⚛️ I love science of Plasma🙂
