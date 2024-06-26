@@ -1,5 +1,5 @@
 # Hello, my name is Dariusz Podczasik! 👋
-I'm a passionate **Front-End Developer** based in Ireland. I enjoy creating dynamic and responsive web application.
+I am a passionate **Front-End Developer**. I enjoy creating dynamic and responsive web application.
 
 ## 🚀 About Me
 - 💻 Technology is my passion.
