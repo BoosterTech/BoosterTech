@@ -13,9 +13,9 @@ I am a passionate **Front-End Developer**. I enjoy creating dynamic and responsi
 - **Tools:** Git, GitHub, NPM, Redux-Toolkit, Redux-Saga, React-Router, Styled-Components, Async-Await, Axios, Trello, Figma, Scrum
 
 ## 🏆 Achievements & Certifications
-- 🎓 **Front-End Development** - YouCode (2023-2024)
-- 🥇 **C++ Programmer Certification** - C++ Institute (Score: 83%)
-- 🌟 **Computer Science** - Fitzwilliam Institute, Dublin (Score: 95%)
+- 🎓 **Front-End Development** - YouCode
+- 🥇 **C++ Programmer Certification** - C++ Institute
+- 🌟 **Computer Science** - Fitzwilliam Institute, Dublin
 
 ## 📈 GitHub Stats
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoosterTech&show_icons=true&theme=radical)-->
