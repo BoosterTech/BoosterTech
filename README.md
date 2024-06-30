@@ -9,7 +9,7 @@ I am a passionate **Front-End Developer**. I enjoy creating dynamic and responsi
 
 ## 🔧 Technologies & Tools
 - **Languages:** JavaScript ES6+, HTML, CSS
-- **Frameworks:** React
+- **Frameworks:** React.js
 - **Tools:** Git, GitHub, NPM, Redux-Toolkit, Redux-Saga, React-Router, Styled-Components, Async-Await, Axios, Trello, Figma, Scrum
 
 ## 🏆 Achievements & Certifications
