@@ -48,6 +48,8 @@ Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Por
 ---
 
 ### Why I Love Front-End Development
+Because let’s be honest, who doesn’t want to build the future... one pixel at a time? 😜
+Just messing, but really, that's the dream!
 
 I’ve been a technology enthusiast since I was a kid, always in awe of what code can do. What started as a hobby — tinkering with new tools and creating random projects — has now turned into a full-blown career. React is my weapon of choice (I swear it has superpowers), and I’m constantly staying on top of the latest trends and updates in the React ecosystem.
 
