@@ -1,7 +1,7 @@
 # Hello, I'm Dariusz Podczasik 👋  
 A passionate **Front-End <React | Next>  Developer** based in Trim, Ireland.
 
-I strive to build dynamic and responsive web applications using the latest front-end technologies. I love creating enjoyable user experiences and solving problems with code. My goal is to deliver high-quality and performant web apps with great UX/UI design.
+I strive to build dynamic and responsive web applications using the latest front- & back- end technologies. I enjoy long evenings of coding with a cup of mocha coffee, where I focus on creating and solving problems with code. My goal is to deliver high-quality and performant web apps with great UX/UI design and in the process of creating - expand my understanding and knowledge in newest trensd in web technologies.
 
 ## 🚀 About Me
 - 💻 **Technology is my passion** — I’m always exploring new tools and frameworks.
