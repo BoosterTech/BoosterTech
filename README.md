@@ -1,46 +1,57 @@
-# Hello, my name is Dariusz Podczasik! 👋
-I am a passionate **Front-End Developer**. I enjoy creating dynamic and responsive web application.
+# Hello, I'm Dariusz Podczasik 👋  
+A passionate **Front-End <React | Next>  Developer** based in Trim, Ireland.
+
+I strive to build dynamic and responsive web applications using the latest front-end technologies. I love creating enjoyable user experiences and solving problems with code. My goal is to deliver high-quality and performant web apps with great UX/UI design.
 
 ## 🚀 About Me
-- 💻 Technology is my passion.
-- 🔭 I’m currently working on improving my React skills and learning TypeScript.
-- 🌱 I am also learning more about advanced React patterns.
-- ‍💼 I enjoy environments where I can be part of interesting projects, share & expand my knowledge.
+- 💻 **Technology is my passion** — I’m always exploring new tools and frameworks.
+- 🔭 I’m currently working on improving my React & Next skills,TypeScript, and deepening my understanding of advanced React & Next patterns.
+- 🌱 I'm passionate about learning and growing in web development and eager to contribute to exciting projects.
+- 💼 I thrive in environments where I can collaborate with others, share knowledge, and continue expanding my skills.
 
-## 🔧 Technologies & Tools
-- **Languages:** JavaScript ES6+, HTML, CSS
-- **Frameworks:** React.js
-- **Tools:** Git, GitHub, NPM, Redux-Toolkit, Redux-Saga, React-Router, Styled-Components, Async-Await, Axios, Trello, Figma, Scrum
+## 🛠️ My Skillset
+- **Languages**: JavaScript (ES6+), TypeScript, HTML, CSS
+- **Frameworks & Libraries**: React.js, Next.js, Redux Toolkit, React Router, React Query, Styled-Components, Tailwind CSS, React Context API
+- **Tools**: Git, GitHub, NPM, Trello, Figma, Scrum
+- **Techniques**: Responsive Web Design, CSS Grid, CSS Flexbox, BEM convention, Animations & Keyframes, Async/Await, API integrations (Axios, Fetch), JWT Authentication, OAuth2 Integration
+- **Deployment & Hosting**: Vercel, Supabase, CI/CD for React apps
+- **Development Practices**: GitHub Pull Requests & Review, GitHub Team Collaboration, Test-Driven Development (TDD), Continuous Learning
 
-## 🏆 Achievements & Certifications
-- 🎓 **Front-End Development** - YouCode
-- 🥇 **C++ Programmer Certification** - C++ Institute
-- 🌟 **Computer Science** - Fitzwilliam Institute, Dublin
+## 🌱 What I’m Learning Next
+- React Testing
+- React Native
+- Node.js
+- Three.js
+- Exploring both front-end and back-end development for full-stack capabilities is + mobile development with React native.
 
-## 📈 GitHub Stats
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoosterTech&show_icons=true&theme=radical)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoosterTech&layout=compact&theme=radical)
-
-<!--## 📝 Recent Blog Posts
-- [Understanding Flexbox: A Guide for Beginners](https://yourblog.com/understanding-flexbox)
-- [Introduction to React Hooks](https://yourblog.com/introduction-to-react-hooks)
-- [Getting Started with STM32 Nucleo-64](https://yourblog.com/stm32-nucleo-64)-->
+## 🎓 Achievements & Certifications
+- **Computer Science Diploma** - Fitzwilliam Institute, Dublin
+- **Front-End Development** - YouCode (Taught by developers behind the Deutsche Bank website)
+- **C++ Programmer Certification** - C++ Institute, Institute of Technology
+- **Completed Several Udemy Courses** 🤓
 
 ## 🎉 Fun Facts
-- ✈️ I'm a licensed private pilot.
-- 🚛 I am also licensed professional truck driver😉 
-- 🚀 I enjoy experimenting with embedded systems and MCU programming.
-- 🏋️‍♂️ Fitness enthusiast with a focus on strength training and cardio.
-- ⚛️ I love science of Plasma🙂
+- ✈️ I’m a licensed private pilot 😎
+- 🚛 I’m also a licensed professional truck driver 😉
+- 🚀 I previously experimented with embedded systems and MCU programming, but I am now fully focused on becoming an expert in web technologies.
+- 🏋️‍♂️ Fitness enthusiast, with a passion for strength training and cardio.
+- ⚛️ I’m fascinated by the science of plasma.
 
-## 🌐 Website
+
+## 🌐 Website  
 Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) (available in English, Polish & Spanish) to see my projects and learn more about my work.
 
 ## 📫 How to reach me
-- **Email:** boostertech@mail.com
-- **LinkedIn:** [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
+- **Email**: boostertech@mail.com
+- **LinkedIn**: [Dariusz Podczasik](http://www.linkedin.com/in/Dariusz-Podczasik)
 - 📱 Contact me on [WhatsApp](https://wa.me/353862013944)
-  
 
+---
 
+### Why I Love Front-End Development
 
+I’ve been a technology enthusiast since I was a child, fascinated by what code can accomplish. Initially, coding was a hobby where I could explore new tools, and it quickly grew into a career. React has become my tool of choice, and I’m constantly striving to stay up-to-date with new trends and advancements in the React ecosystem.
+
+As a Front-End Developer, I focus on building web apps that are both functional and intuitive. My primary stack includes **React.js**, **Next.js**, and **TypeScript**, with **Tailwind CSS** and **Styled-Components** for styling. I also leverage **Redux** for state management and **Axios** for seamless API interactions.
+
+I'm continuously learning, working on both **front-end** and **back-end** technologies, and expanding my skills into **mobile development** with **React Native**.
