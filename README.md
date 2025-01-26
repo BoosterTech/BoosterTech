@@ -18,9 +18,9 @@ I strive to build dynamic and responsive web applications using the latest front
 - **Development Practices**: GitHub Pull Requests & Review, GitHub Team Collaboration, Test-Driven Development (TDD), Continuous Learning
 
 ## 🌱 What I’m Learning Next and why:
-- **React Testing**, because testing is like coffee – better when it’s strong and frequent!)
-- **React Native**, because Building mobile apps makes me feel like a wizard with my phone!)
-- **Node.js**, because I want to run servers faster than a racecar... maybe not, but close
+- **React Testing**, because testing is like coffee – better when it’s strong and frequent!
+- **React Native**, because building mobile apps makes me feel like a wizard with my phone!
+- **Node.js**, because I want to run servers faster than a racecar... maybe not, but close.
 - **Three.js**, because why not turn your browser into a 3D playground? 🌐🎮
 - Exploring both front-end and back-end development for full-stack capabilities is + mobile development with React native.
 
