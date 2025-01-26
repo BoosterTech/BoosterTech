@@ -31,10 +31,10 @@ I strive to build dynamic and responsive web applications using the latest front
 - **Completed Several Udemy Courses** 🤓
 
 ## 🎉 Fun Facts
-- ✈️ I’m a licensed private pilot 😎
-- 🚛 I’m also a licensed professional truck driver 😉
-- 🚀 I previously experimented with embedded systems and MCU programming, but I am now fully focused on becoming an expert in web technologies.
-- 🏋️‍♂️ Fitness enthusiast, with a passion for strength training and cardio.
+- ✈️ I’m a licensed private pilot 😎  
+- 🚛 I’m also a licensed professional truck driver 😉  
+- 🚀 I used to experiment with embedded systems and MCU programming, but now I’m fully focused on becoming an expert in web technologies.  
+- 🏋️‍♂️ Fitness enthusiast with a passion for strength training and cardio.  
 - ⚛️ I’m fascinated by the science of plasma.
 
 ## 🌐 Website  
