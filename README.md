@@ -1,11 +1,11 @@
 # Hello, I'm Dariusz Podczasik 👋  
 A passionate **Front-End <React | Next>  Developer** based in Trim, Ireland.
 
-I strive to build dynamic and responsive web applications using the latest front- & back- end technologies. I enjoy long evenings of coding with a cup of mocha coffee, where I focus on creating and solving problems with code. My goal is to deliver high-quality and performant web apps with great UX/UI design and in the process of creating - expand my understanding and knowledge in newest trensd in web technologies.
+I strive to build dynamic and responsive web applications using the latest front- & back- end technologies. I enjoy long evenings of coding with a cup of mocha coffee, where I focus on creating and solving problems with code. My goal is to deliver high-quality and performant web apps with great UX/UI design and in the process of creating - expand my understanding and knowledge in newest trends in web technologies.
 
 ## 🚀 About Me
 - 💻 **Technology is my passion** — I’m always exploring new tools and frameworks.
-- 🔭 I’m currently working on improving my React & Next skills,TypeScript, and deepening my understanding of advanced React & Next patterns.
+- 🔭 I’m currently working on improving my React & Next skills, TypeScript, and deepening my understanding of advanced React & Next patterns.
 - 🌱 I'm passionate about learning and growing in web development and eager to contribute to exciting projects.
 - 💼 I thrive in environments where I can collaborate with others, share knowledge, and continue expanding my skills.
 
@@ -36,7 +36,6 @@ I strive to build dynamic and responsive web applications using the latest front
 - 🚀 I previously experimented with embedded systems and MCU programming, but I am now fully focused on becoming an expert in web technologies.
 - 🏋️‍♂️ Fitness enthusiast, with a passion for strength training and cardio.
 - ⚛️ I’m fascinated by the science of plasma.
-
 
 ## 🌐 Website  
 Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) (available in English, Polish & Spanish) to see my projects and learn more about my work.
