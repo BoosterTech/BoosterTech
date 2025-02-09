@@ -4,9 +4,9 @@ A passionate **Front-End <React | Next>  Developer** based in Trim, Ireland.
 I build dynamic and responsive web applications using the latest front- & back- end technologies. I enjoy long evenings of coding with a cup of mocha coffee, when I focus on creating with code. My primary focus is on building high-quality and performant web apps with great UX/UI design and in the process of developing - expand my understanding and knowledge in newest trends in web technologies.
 
 ## 🚀 About Me
-- 💻 **Technology is my passion** — I’m always exploring new tools..
-- 🔭 I’m currently working on improving my React & Next skills, TypeScript, and deepening my understanding of advanced React & Next patterns.
-- 🌱 I'm passionate about learning and growing in web apps development and eager to contribute to exciting projects.
+- 💻 **Technology is my passion** — I’m always exploring new tools.
+- 🔭 I’m currently working on improving my React & Next skills, TypeScript, and deepening my understanding of advanced React patterns.
+- 🌱 I’m passionate about learning and contributing to exciting projects.
 - 💼 I thrive in environments where I can contribute to projects, collaborate with others, share knowledge, and continue expanding my skills.
 
 ## 🛠️ My Skillset
@@ -37,7 +37,7 @@ I build dynamic and responsive web applications using the latest front- & back- 
 - ⚛️ I’m fascinated by the science of plasma.
 
 ## 🌐 Website  
-Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) (available in English, Polish & Spanish) to see my projects and learn more about my work.
+Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Portfolio/) (available in English, Polish & Spanish) to see my projects.
 
 ## 📫 How to reach me
 - **Email**: boostertech@mail.com
@@ -47,11 +47,4 @@ Check out my [portfolio website](https://boostertech.github.io/Front-End-Dev-Por
 ---
 
 ### Why I Love Front-End Development
-Because let’s be honest, who doesn’t want to build the future... one pixel at a time? 😜
-Just messing, but really, that's the dream!
-
-I’ve been a technology enthusiast since I was a kid, always in awe of what code can do. What started as a hobby — tinkering with new tools and creating random projects — has now turned into a full-blown career. React is my weapon of choice (I swear it has superpowers), and I’m constantly staying on top of the latest trends and updates in the React ecosystem.
-
-As a Front-End Developer, I focus on building web apps that aren’t just functional but also fun to use. My go-to stack includes **React.js**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Styled-Components** (because who doesn’t love a good-looking app?). I also use **Redux** for managing state and **Axios** to keep my API calls smooth and painless.
-
-I’m always learning — whether it's expanding my front-end and back-end skills, or diving into mobile development with **React Native** (because why stop at web?). The future is exciting, and I’m all in.
+Because building the future, one pixel at a time, is what drives me. I’m passionate about creating apps that are not only functional but also a joy to use.
